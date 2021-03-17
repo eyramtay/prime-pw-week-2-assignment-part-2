@@ -82,6 +82,9 @@ if 'isStudent' equals false OR the variable 'age' is less than 30 then we will c
 if 'isStudent' equals true, then we will console log "Welcome to Prime!" if not, then we will console log "How about the weather?"
 */
 
+//REVISION:
+/* The result of the code down below would log: "Welcome to Prime!" in the console based on the
+values of the variables. */
 
 //CODE
 /*
@@ -168,7 +171,7 @@ if (temp > 39 || time >= 4) {
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
-// We check if age is greater than minAge
+// We check if age is greater than *or equal to* minAge
 // -- they are, so we console.log 'enter'.
 
 /*
